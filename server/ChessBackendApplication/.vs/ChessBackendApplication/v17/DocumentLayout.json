@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed.owaish\\Code Marathon\\chess\\server\\ChessBackendApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017335EF-53F8-4989-949D-1C12ED013FAE}|ChessBackendApplication.csproj|c:\\users\\mohammed.owaish\\code marathon\\chess\\server\\chessbackendapplication\\dao\\chessdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017335EF-53F8-4989-949D-1C12ED013FAE}|ChessBackendApplication.csproj|solutionrelative:dao\\chessdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017335EF-53F8-4989-949D-1C12ED013FAE}|ChessBackendApplication.csproj|c:\\users\\mohammed.owaish\\code marathon\\chess\\server\\chessbackendapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017335EF-53F8-4989-949D-1C12ED013FAE}|ChessBackendApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.owaish\\Code Marathon\\chess\\server\\ChessBackendApplication\\Dao\\ChessDaoImpl.cs",
+              "RelativeDocumentMoniker": "Dao\\ChessDaoImpl.cs",
+              "ToolTip": "C:\\Users\\mohammed.owaish\\Code Marathon\\chess\\server\\ChessBackendApplication\\Dao\\ChessDaoImpl.cs",
+              "RelativeToolTip": "Dao\\ChessDaoImpl.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:50:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.owaish\\Code Marathon\\chess\\server\\ChessBackendApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed.owaish\\Code Marathon\\chess\\server\\ChessBackendApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:54:20.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
